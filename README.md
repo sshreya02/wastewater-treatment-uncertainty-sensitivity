@@ -109,8 +109,6 @@ Nehal Jain · Buai Shi · Nina Trousdale · Linshui Zhang · Tejashree Babar · 
 
 December 20, 2024  
 
----
 
-## License
 
-MIT © 2024 Sristi Shreya  
+
